@@ -5,24 +5,24 @@ function ARUStats() {
 		<div className="aru-stats">
 			<div className="property-banner">
 				<div className="property-info">
-					<div className="property-title">Area</div>
+					<div className="property-title">Reported Improvement</div>
 					<hr />
-					<div className="property-data">15+</div>
+					<div className="property-data">95%</div>
 				</div>
 				<div className="property-info">
-					<div className="property-title">Projects</div>
+					<div className="property-title">Reduced Anxiety</div>
 					<hr />
-					<div className="property-data">10+</div>
+					<div className="property-data">87%</div>
 				</div>
 				<div className="property-info">
-					<div className="property-title">Families Supported</div>
+					<div className="property-title">Clients feel more confident</div>
 					<hr />
-					<div className="property-data">15,000+</div>
+					<div className="property-data">9/10 </div>
 				</div>
 				<div className="property-info">
 					<div className="property-title">Individuals Supported</div>
 					<hr />
-					<div className="property-data">3Lakh+</div>
+					<div className="property-data">2000+</div>
 				</div>
 			</div>
 		</div>

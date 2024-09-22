@@ -12,28 +12,27 @@ export default function Home() {
 			<section className={styles.hero}>
 				<div className={styles.heroInner}>
 					<div className={styles.heading}>
-						<h1>ARU</h1>
+						<h1>UYS</h1>
 						<div className={styles.headingSecondaryGroup}>
-							<h3 className={styles.headingSecondaryCharacter}>F</h3>
-							<h3 className={styles.headingSecondaryCharacter}>O</h3>
-							<h3 className={styles.headingSecondaryCharacter}>U</h3>
-							<h3 className={styles.headingSecondaryCharacter}>N</h3>
-							<h3 className={styles.headingSecondaryCharacter}>D</h3>
-							<h3 className={styles.headingSecondaryCharacter}>A</h3>
+							<h3 className={styles.headingSecondaryCharacter}> </h3>
 							<h3 className={styles.headingSecondaryCharacter}>T</h3>
-							<h3 className={styles.headingSecondaryCharacter}>I</h3>
-							<h3 className={styles.headingSecondaryCharacter}>0</h3>
-							<h3 className={styles.headingSecondaryCharacter}>N</h3>
+							<h3 className={styles.headingSecondaryCharacter}>H</h3>
+							<h3 className={styles.headingSecondaryCharacter}>E</h3>
+							<h3 className={styles.headingSecondaryCharacter}>R</h3>
+							<h3 className={styles.headingSecondaryCharacter}>A</h3>
+							<h3 className={styles.headingSecondaryCharacter}>P</h3>
+							<h3 className={styles.headingSecondaryCharacter}>Y</h3>
+							<h3 className={styles.headingSecondaryCharacter}> </h3>
+							<h3 className={styles.headingSecondaryCharacter}> </h3>
 						</div>
 					</div>
 					<div className={styles.information}>
-						Every click takes you on a journey of hope. Meet the faces behind
-						the stories of transformation—individuals whose lives have been
-						touched by our programs and initiatives.
+						Experience the healing power of offline therapy—personalized,
+						face-to-face sessions designed to help you reconnect and grow{" "}
 					</div>
 					<div className={styles.cta}>
 						<a className={styles.ctaButton} href="/#get-involved">
-							GET INVOLVED
+							CONTACT US
 						</a>
 					</div>
 				</div>
@@ -70,8 +69,9 @@ export default function Home() {
 				<h1>IMPACT</h1>
 				<div className={styles.impactContent}>
 					<h2>
-						We have been helping out the children from financially weak
-						communities since 2017
+						Since 2017, we've been transforming lives through therapy, helping
+						individuals overcome challenges and build lasting emotional
+						resilience{" "}
 					</h2>
 				</div>
 			</section>

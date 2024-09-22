@@ -12,10 +12,10 @@ export default function App({ Component, pageProps }: AppProps) {
 	return (
 		<>
 			<Head>
-				<title>Aru Foundation</title>
+				<title>UYS Therapy</title>
 				<meta
 					name="description"
-					content="Aru Foundation is a non-profity organization helping various sectors of the society"
+					content="UYS Therapy is a non-profity organization helping various sectors of the society"
 				/>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" href="/favicon.ico" />

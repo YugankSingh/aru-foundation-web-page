@@ -39,14 +39,14 @@ function GetInvolved({}) {
 							onMouseOut={() => setIsDonateActive(false)}
 							className={styles.buttonBG + " " + styles.donateButton}
 						>
-							<p>Donate</p>
+							<p>Get Help</p>
 						</button>
 						<button
 							onMouseOver={() => setIsDonateActive(true)}
 							onMouseOut={() => setIsDonateActive(false)}
 							className={styles.buttonText + " " + styles.donateButton}
 						>
-							<p>Donate</p>
+							<p>Get Help</p>
 						</button>
 					</div>
 				</div>
